@@ -1,4 +1,4 @@
-# Interactive-graphs
+# Real time graphs-graphs
 The Interactive graphs project focuses on using an Infrared Distance sensor to determine human interaction with spaces. 
 The sensor is programmed to give a counnt of interactions mades as people pass by a given space.
 The count value is later graphed in real time to show how a given space is being interacted with.
